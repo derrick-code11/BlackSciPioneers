@@ -1,6 +1,6 @@
 # BlackSciPioneers
 
-A React app that celebrates the achievements and contributions of black scientists from around the world. You can access app [here]()
+A React app that celebrates the achievements and contributions of black scientists from around the world. You can access app [here](https://blacksci.netlify.app/)
 
 ## Table of Contents
 
